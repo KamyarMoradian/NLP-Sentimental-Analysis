@@ -9,3 +9,8 @@ There are two main documents in this repository:
 1. **SA_Document.pdf**: This document provides a brief description of what this project contains.
 
 2. **SA_Report.pdf**: This document is report of what has been done in the project, how does the final model function and a brief evaluation of this model.
+
+
+## Team Members:
+1. @KamyarMoradian
+2. @iMahdiGhazavi
